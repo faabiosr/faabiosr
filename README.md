@@ -24,3 +24,4 @@ Projects that I contributed:
 | [goreleaser](https://github.com/goreleaser/goreleaser/pull/3509)| support for chocolatey packages (windows) |
 | [ScoopInstaller](https://github.com/ScoopInstaller/Main/pull/2779)| 7-zip install explorer context menu (windows) |
 | [Alpine Packages](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Fabio+Ribeiro)| php packages |
+| [PHP ZooKeeper Extension](https://github.com/php-zookeeper/php-zookeeper)| ci/cd |
