@@ -26,3 +26,4 @@ Projects that I contributed:
 | [ScoopInstaller](https://github.com/ScoopInstaller/Main/pull/2779)| 7-zip install explorer context menu (windows) |
 | [Alpine Packages](https://pkgs.alpinelinux.org/packages?name=&branch=edge&repo=&arch=&maintainer=Fabio+Ribeiro)| php packages |
 | [PHP ZooKeeper Extension](https://github.com/php-zookeeper/php-zookeeper)| ci/cd |
+| [InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf/pull/365)| AWS SES Mailer |
